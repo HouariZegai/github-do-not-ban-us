@@ -1,0 +1,1 @@
+console.log('GitHub é para todos!')

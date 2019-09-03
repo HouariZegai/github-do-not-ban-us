@@ -1,13 +1,14 @@
 # Ένα μήνυμα προς το GitHub
 
-English | [简体中文](./README-CN.md) | [Spanish](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Русский](./README-RU.md)
+[English](./README.md) | [简体中文](./README-CN.md) | [Español ](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française ](./README-FR.md) | [Deutsch](./README-DE.md) | [Հայերէն](./README-HY.md) | [Српски](./README-SR.md) | [العربية](./README-AR.md) | [Türkçe](./README-TR.md) | [Português do Brasil](./README-PT-BR.md) | [Nederlands](./README-NL.md) | [한국어](./README-KO.md)
 
 ![alt text](./message.png)
 
 Συμβουλή: Μπορείς να χρησιμοποιήσεις [αυτό το πρόσθετο](https://github.com/MohamadKh75/ShutHub) για να κρύψεις αυτό το κίτρινο κουτί!
 
+![github-octocat](https://user-images.githubusercontent.com/12782371/62160824-168f5000-b32a-11e9-858b-e196b913d17b.png)
+
 ## Εισαγωγή
-## Introduction
 
 Το GitHub κάποτε ήταν μία ανοιχτή και ελεύθερη πλατφόρμα για όλους, αλλά πλέον έχει αποφασίσει να στερήσει λογαριασμούς από το Ιράν από την ικανότητα του συνεισφέρειν και του αποτελείν κομμάτι του οικοσυστήματος ανοιχτού-λογισμικού. Αν και καταλαβαίνουμε ότι το GitHub μπορεί να προέβη σε αυτήν την απόφαση αφού δέχτηκε πιέσεις από την αμερικανική κυβέρνηση, προσδοκούσαμε μια δράση που να εμπνέει περισσότερο σεβασμό από πλευράς τους.
 
@@ -24,29 +25,24 @@ English | [简体中文](./README-CN.md) | [Spanish](./README-ES.md) | [Ελλη
 
 Κάποια παραδείγματα πρότζεκτ ανοιχτού-κώδικα κατασκευασμένα από Ιρανούς προγραμματιστές:
 
-https://github.com/usablica/intro.js
-
-https://github.com/lebab/lebab
-
-https://github.com/saeedalipoor/icono
-
-https://github.com/morteza/bootstrap-rtl
-
-https://github.com/ilius/pyglossary
-
-https://github.com/TheSNAKY/Lives
-
-https://github.com/sasanrose/phpredmin
-
-https://github.com/ahmdrz/goinsta
-
-https://github.com/persepolisdm/persepolis
-
-https://github.com/sepandhaghighi/pycm
-
-https://github.com/sepandhaghighi/art
-
-https://github.com/imaNNeoFighT/fl_chart
+- [@harfbuzz](https://github.com/harfbuzz)/[**harfbuzz**](https://github.com/harfbuzz/harfbuzz)
+- [@usablica](https://github.com/usablica)/[**intro.js**](https://github.com/usablica/intro.js)
+- [@lebab](https://github.com/lebab)/[**lebab**](https://github.com/lebab/lebab)
+- [@saeedalipoor](https://github.com/saeedalipoor)/[**icono**](https://github.com/saeedalipoor/icono)
+- [@morteza](https://github.com/morteza)/[**bootstrap-rtl**](https://github.com/morteza/bootstrap-rtl)
+- [@ilius](https://github.com/ilius)/[**pyglossary**](https://github.com/ilius/pyglossary)
+- [@TheSNAKY](https://github.com/TheSNAKY)/[**Lives**](https://github.com/TheSNAKY/Lives)
+- [@sasanrose](https://github.com/sasanrose)/[**phpredmin**](https://github.com/sasanrose/phpredmin)
+- [@ahmdrz](https://github.com/ahmdrz)/[**goinsta**](https://github.com/ahmdrz/goinsta)
+- [@persepolisdm](https://github.com/persepolisdm)/[**persepolis**](https://github.com/persepolisdm/persepolis)
+- [@sepandhaghighi](https://github.com/sepandhaghighi)/[**pycm**](https://github.com/sepandhaghighi/pycm)
+- [@sepandhaghighi](https://github.com/sepandhaghighi)/[**art**](https://github.com/sepandhaghighi/art)
+- [@imaNNeoFighT](https://github.com/imaNNeoFighT)/[**fl_chart**](https://github.com/imaNNeoFighT/fl_chart)
+- [@nuxt](https://github.com/nuxt)/[**nuxt.js**](https://github.com/nuxt/nuxt.js)
+- [@bootstrap-vue](https://github.com/bootstrap-vue)/[**bootstrap-vue**](https://github.com/bootstrap-vue/bootstrap-vue)
+- [@wolfengine](https://github.com/wolfengine)/[**wolf.engine**](https://github.com/wolfengine/wolf.engine)
+- [@soroushchehresa](https://github.com/soroushchehresa)/[**vue-soundcloud**](https://github.com/soroushchehresa/vue-soundcloud)
+- [@soroushchehresa](https://github.com/soroushchehresa)/[**unsplash-wallpapers**](https://github.com/soroushchehresa/unsplash-wallpapers)
 
 Μπορείτε να βρείτε την πλήρη λίστα [εδώ](https://github.com/mohebifar/made-in-iran).
 
@@ -57,7 +53,7 @@ https://github.com/imaNNeoFighT/fl_chart
 
 - Να κάνετε "star" και να κοινοποιήστε αυτό το απωθητήριο σε κοινωνικές πλατφόρμες με το hashtag "githubForEveryone.
 - Να προσθέσετε έναν φκελο με το όνομα χρήστη σας εντός του φακέλου "together".
-- Να συγγράψετε ένα κομμάτι κώδικα το οποίο θα τυπώνει "Github is for everyone" (το Github είναι για όλους) (σε ότι γλώσσα θέλετε).
+- Να συγγράψετε ένα κομμάτι κώδικα το οποίο θα τυπώνει "GitHub is for everyone" (το GitHub είναι για όλους) (σε ότι γλώσσα θέλετε).
 - Να δημιουργήσετε ένα "pull request".
 - Να προσθέσετε το όνομα και την χώρα σας στο τμήμα "supporters" (υποστηρικτές).
 
@@ -69,4 +65,4 @@ https://github.com/imaNNeoFighT/fl_chart
 
 ## Υποστηρικτές
 
- [README.md](README.md#supporters)
+ [README.md](README.md#supporters-list-sorted-alphabetically)
